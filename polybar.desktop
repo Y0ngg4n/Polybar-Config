@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec="/home/andre/.config/polybar/launch.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_IN]=Polybar
+Name=Polybar
+Comment[en_IN]=Polybar
+Comment=Polybar
